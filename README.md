@@ -1,4 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ziaulhoquearafat">
+
 # Hello there! I'm Ziaul Hoque Arafat 👋
+
 
 ## 🚀 About Me
 
