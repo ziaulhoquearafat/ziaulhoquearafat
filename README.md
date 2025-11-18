@@ -2,6 +2,8 @@
 
 # Hello there! I'm Ziaul Hoque Arafat 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18BEF7&width=700&height=60&lines=Front-end+Web+Developer+(MERN+Stack);Focus+On+Building++Meaningful+Real-world+Web+Applications.)](https://git.io/typing-svg)
+
 
 ## 🚀 About Me
 
