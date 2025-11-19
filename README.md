@@ -46,5 +46,5 @@ Feel free to reach out to me or connect with me on  [Linkedin](https://www.linke
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/front-end-web-developer-by-react/) |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/ziaul-hoque-arafat/) |
 | **Email** | [mdarafat3167@gmail.com](mailto:mdarafat3167@gmail.com) |
