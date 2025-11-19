@@ -1,3 +1,6 @@
+<img src="https://github.com/ziaulhoquearafat/ziaulhoquearafat/blob/main/Ziaul%20Hoque%20Arafat%20Web%20Developer%20MERN.png" alt="Banner" width="100%" />
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ziaulhoquearafat" />
 
 # 💫 Ziaul Hoque Arafat  
