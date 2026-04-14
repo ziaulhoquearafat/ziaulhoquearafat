@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ziaulhoquearafat/ziaulhoquearafat/blob/main/Ziaul%20hoque%20Arafat.gif" alt="Ziaul Hoque Arafat Banner" width="100%" />
+  <img src="f" alt="Ziaul Hoque Arafat Banner" width="100%" />
 </p>
 
 <p align="center">
