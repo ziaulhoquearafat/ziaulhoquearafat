@@ -108,7 +108,7 @@ const arafat: Developer = {
 
 <p align="center">
   <a href="https://github.com/ziaulhoquearafat">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaulhoquearafat&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaulhoquearafat&theme=github-compact&hide_border=false&area=true" alt="GitHub Activity Graph">
 
 </a>
 </p>
