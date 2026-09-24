@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/ziaulhoquearafat/ziaulhoquearafat/blob/main/github_Banner.png" alt="Ziaul Hoque Arafat Banner" width="100%" />
 </p>
 
