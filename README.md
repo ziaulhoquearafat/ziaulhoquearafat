@@ -39,7 +39,7 @@
 - 🚀 Building scalable web applications using **Next.js, React, and Node.js**.
 - 🗄️ Designing and managing databases with **MongoDB / Mongoose**.
 - 🛠️ Developing secure and efficient **REST APIs**.
-- 🔐 Implementing authentication & authorization (**JWT, NextAuth, Firebase**).
+- 🔐 Implementing authentication & authorization (**JWT, Firebase**).
 - 🎨 Creating responsive, modern UIs with **Tailwind CSS**.
 - 📈 Optimizing websites with **Search Engine Optimization (SEO)** best practices.
 - 🌐 Deploying and maintaining applications using **Vercel / Cloud platforms**.
